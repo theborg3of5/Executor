@@ -1,0 +1,50 @@
+[W0]
+keywords=adjust
+command=$WADJUST$
+comment=Adjust window (width,height,left,top)
+
+[W1]
+keywords=center
+command=$WCENTER$
+comment=Center current window
+
+[W2]
+keywords=close
+command=$WCLOSE$
+comment=Close current window
+
+[W3]
+keywords=height
+command=$WMAXHEIGHT$
+comment=Maximize window height
+
+[W4]
+keywords=maximize
+command=$WMAXIMIZE$
+comment=Maximize current window
+
+[W5]
+keywords=minimize
+command=$WMINIMIZE$
+comment=Minimize current window
+
+[W6]
+keywords=open
+command=$WOPEN$
+comment=Open current window
+
+[W7]
+keywords=resize
+command=$WRESIZE$
+comment=Resize window (example "resize 800x600")
+
+[W8]
+keywords=restore
+command=$WRESTORE$
+comment=Restore current window
+
+[W9]
+keywords=width
+command=$WMAXWIDTH$
+comment=Maximize window width
+
